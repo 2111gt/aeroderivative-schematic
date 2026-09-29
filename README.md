@@ -2,7 +2,13 @@
 
 Independent teaching schematic of the LM2500, LM6000, and LMS100 arrangements: cutaway, explode, airflow, and the published ratings kept on the boundary they were published with.
 
-**[Open the page](https://2111gt.github.io/aeroderivative-schematic/)** · **[Open the model](https://2111gt.github.io/aeroderivative-schematic/viewer.html)**
+**[Open the page](https://2111gt.github.io/aeroderivative-schematic/)** · **[Open the model](https://2111gt.github.io/aeroderivative-schematic/viewer.html)** · **[Confluence frame](https://2111gt.github.io/aeroderivative-schematic/confluence.html)**
+
+`confluence.html` is the same model with a shorter bar, for an iframe about 560 px tall. It opens on the cutaway. In Confluence, frame that file instead of pasting the HTML into the page:
+
+```html
+<iframe src="https://2111gt.github.io/aeroderivative-schematic/confluence.html" title="LM2500, LM6000, and LMS100" style="width:100%;height:560px;border:0;background:#101216" allow="fullscreen"></iframe>
+```
 
 The model is `viewer.html`. It is one file. Double-click it, or open the link above. It does not need a server or an internet connection. Annulus sizes and blade counts are enlarged so the gas path can be read. The LM6000 length on screen is the published 4.91 m. The other two lengths are schematic.
 
